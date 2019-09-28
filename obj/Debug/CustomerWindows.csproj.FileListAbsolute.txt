@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\bin\Debug\CustomerWindows.exe.config
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\bin\Debug\CustomerWindows.exe
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\bin\Debug\CustomerWindows.pdb
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.Customer.resources
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.Properties.Resources.resources
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.exe
+C:\Users\Hp\Desktop\Windows Application\CustomerWindows\CustomerWindows\obj\Debug\CustomerWindows.pdb
